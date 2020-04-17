@@ -17,3 +17,4 @@ function sumAll($int)
     return $total;
 }
 echo sumAll(10);
+?>
