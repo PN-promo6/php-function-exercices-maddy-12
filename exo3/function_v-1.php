@@ -1,5 +1,5 @@
 <?php
-
+// On parcours le magazine une seule fois et on compte le nombre d'occurrence de chaque lettre.
 function CanWrite($magazine, $messageToWrite)
 {
     $nbOccurenceByLetter = array();
